@@ -1,3 +1,4 @@
-# 说明
+# 项目说明
 
-配套使用Apache Axis2发布一个Web服务。
+Eclipse工程，配套Apache Axis2发布一个Web服务使用。
+
